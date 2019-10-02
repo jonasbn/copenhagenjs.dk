@@ -10,9 +10,9 @@ author: Björn Söderqvist
 
 October is going to be a very busy month for the Community, we are going to have **four** events, and have an opportunity for yet another talk.
 
-So mark your calendar for 
+So mark your calendar for
 
-* October 11th: Couchbase event 
+* October 11th: Couchbase event
 * October 16th: HTML5 conference
 * October 18th: CopenhagenJS meetup
 * October 29th: MongoDB event
@@ -41,7 +41,7 @@ So, we are happy to organise a *bonus* event for the community in October.
 	</a>
 </div>
 
-There is limited seating for this event, register below. 
+There is limited seating for this event, register below.
 
 <iframe src="http://www.eventbrite.com/tickets-external?eid=4459081232&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
@@ -55,13 +55,13 @@ There is limited seating for this event, register below.
 
 ---
 
-October 16th — HTML5 conference 
+October 16th — HTML5 conference
 ----------------------------------------------
 
 Together with our friends at [Lat55](http://www.lat55.se/), CopenhagenJS organises the HTML5 conference "Create The Web" in Copenhagen.
 
-With HTML5 and CSS3, there's lots of new possibilities, but also a great need for new development tools. Adobe is very engaged in the open source tools that exist now and are coming. 
-Create The Web is a worldwide tour where Adobe's developers talk about the latest and greatest in web standards and web development tools. 
+With HTML5 and CSS3, there's lots of new possibilities, but also a great need for new development tools. Adobe is very engaged in the open source tools that exist now and are coming.
+Create The Web is a worldwide tour where Adobe's developers talk about the latest and greatest in web standards and web development tools.
 
 ## Details
 
@@ -86,6 +86,7 @@ To be announced!
 
 ---
 October 18th — CopenhagenJS meetup
+
 ----------------------------------------------
 
 Our regular scheduled meeting will be on the 18th, as it's the third thursday of the month.
@@ -112,6 +113,7 @@ Our regular scheduled meeting will be on the 18th, as it's the third thursday of
 
 ---
 October 29th — MongoDB event
+
 ----------------------------------------------
 
 ##Ensuring High Availability for Real-time Analytics
@@ -124,7 +126,7 @@ Real time analytics is a compelling use case for MongoDB, but only if everything
 
 **Where:** This meetup is hosted by [Foo Café](http://www.foocafe.org/), Media Evolution City at Stora Varvsgatan 6a, Malmö
 
-Price: **Free** 
+Price: **Free**
 ##[Sign up](http://simpleeventsignup.com/event/14498/signup/attendees?signup_token=1f4fd13ac194b6c)
 
 

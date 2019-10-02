@@ -34,9 +34,11 @@ It is time for the September edition of CopenhagenJS. We are going to be hosted 
     21:00 See you next time!
 
 ## What is CopenhagenJS?
+
 CopenhagenJs is a community group in Copenhagen for all JavaScript developers. We get together and share things we work on and really like. We talk about various technologies that we either use on a day to day basis or aspire to use. Check out our website and see all previous videos and speakers 😄 https://copenhagenjs.dk
 
 ## Can I present something at CopenhagenJS?
+
 Definitely, CopenhagenJS is for and by the community, so you are more than welcome to talk about things that you find interesting and we will assist you with your speaking if you are new or have any difficulties. You can contact us with a private message or comment here on meetup.com, or on any social network where you can find us.
 
 Remember to Like our Facebook to get all the latest updates and videos!

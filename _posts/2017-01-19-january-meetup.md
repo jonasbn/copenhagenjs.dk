@@ -39,9 +39,11 @@ Agenda:
     21:00 Finishing up
 
 ## <b>Why should you come? </b>
+
 Come and speak to others that also like JavaScript. CopenhagenJS is a community where we want to help each other become better developers and develop friendships.
 
 ## <b>Can I present something? </b>
+
 Yes, you are very welcome to reach out if there is something you want to present. We can put you on the agenda for this or an upcoming meetup.
 
 Friendly regards

@@ -36,6 +36,7 @@ We are looking for speakers for talks and lightning talks, so don't be shy, let 
 If you've never heard about CopenhagenJS, it's a monthly community group in Copenhagen for all JavaScript enthusiasts.
 
 ## <b>Can I present something at CopenhagenJS?  </b>
+
 Yes, CopenhagenJS is for and by the community so you are more than welcome to talk about things that you find interesting.
 
 Remeber to Like our facebook to get all the latest updates and videos!

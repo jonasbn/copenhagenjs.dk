@@ -33,9 +33,11 @@ Hi friends, happy new year++ and we are ready to start another great year of Cop
     21:00 - See you next time!
 
 ## What is CopenhagenJS?
+
 it's a monthly community group in Copenhagen for all JavaScript developers. We get together and share the things we work on and really like. We talk about new frameworks and techniques that we can use in work to make it better.
 
 ## Can I present something at CopenhagenJS?
+
 Yes, CopenhagenJS is for and by the community so you are more than welcome to talk about things that you find interesting.
 
 Remember to Like our facebook to get all the latest updates and videos!

@@ -40,6 +40,7 @@ We are running a raffle for a ticket to the [2012 Front Trends conference](http:
 
 
 ### Sponsors!
+
 If you have a dream of sponsoring local JavaScript enthusiasts, or know someone that does, we're happy to add sponsorship of a flight/accomodation to our competition.
 
 Winner will be drawn at the end of next meeting, 2012-01-19.

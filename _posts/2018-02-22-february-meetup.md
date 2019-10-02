@@ -31,9 +31,11 @@ It's time for the February edition of CopenhagenJS. This time we are so kindly h
     21:00 See you next time!
 
 ## What is CopenhagenJS?
+
 If you've never heard about CopenhagenJS, it's a monthly community group in Copenhagen for all JavaScript enthusiasts.
 
 ## Can I present something at CopenhagenJS?
+
 Yes, CopenhagenJS is for and by the community so you are more than welcome to talk about things that you find interesting.
 
 Remeber to Like our facebook to get all the latest updates and videos!

@@ -37,6 +37,7 @@ Please visit the [Lanyrd page](http://lanyrd.com/2013/copenhagenjs-april/) and l
 </div>
 
 ## Win a conference ticket!
+
 The organizers of Web Rebels love the web developer community. They're giving us two tickets for the <a href="http://webrebels.org/">Web Rebels 2013</a> conference on May 23rd-24th.
 
 We will draw the two lucky winners in a raffle at the end of the meetup.

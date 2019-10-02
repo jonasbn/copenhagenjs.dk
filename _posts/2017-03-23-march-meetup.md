@@ -38,12 +38,15 @@ We are happy to be hosted by TwentyThree
 <img src="https://www.twentythree.net/wp-content/uploads/sites/6/2016/03/twentythree_logo_pos_RGB-1.png" />
 
 ## <b>What is CopenhagenJS?</b>
+
 If you've never heard about CopenhagenJS, it's a monthly community group in Copenhagen for all JavaScript enthusiasts.
 
 ## <b>Can I present something at CopenhagenJS?</b>
+
 Yes, CopenhagenJS is for and by the community so you are more than welcome to talk about things that you find interesting.
 
 ## <b>Can I help organizing? Are you looking for help?</b>
+
 Yes, you can write to us here on the meetup.com page if you want to help, or if you just want to ask about something.
 
 Looking forward to seeing you!
