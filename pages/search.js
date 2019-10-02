@@ -44,7 +44,7 @@ function Events({ query }) {
           {data.searchEvents.reverse().map(({ title, date, link, type }) => (
             <tr key={title}>
               <td>
-                <a href={link}>{title}</a>
+                <a href={link.replace("https://copenhagenjs.dk", "")}>{title}</a>
               </td>
               <td>{new Date(parseInt(date)).toLocaleString('da-DK')}</td>
               <td>{type}</td>

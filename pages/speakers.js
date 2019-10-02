@@ -36,7 +36,7 @@ function Speakers() {
               <a href={'/speaker?name=' + speaker.slug}>{speaker.name}</a>
             </strong>
             {' - '}
-            <a href={speaker.event.link}>{speaker.title}</a>
+            <a href={speaker.event.link.replace("https://copenhagenjs.dk", "")}>{speaker.title}</a>
           </div>
         )
       })}
