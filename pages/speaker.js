@@ -43,7 +43,9 @@ function Speakers() {
       {data.speaker.reverse().map(speaker => {
         return (
           <div key={speaker.title}>
-            <a href={speaker.event.link.replace("https://copenhagenjs.dk", "")}>{speaker.title}</a>
+            <a href={speaker.event.link.replace('https://copenhagenjs.dk', '')}>
+              {speaker.title}
+            </a>
           </div>
         )
       })}
